@@ -1,10 +1,10 @@
-**Personal Cybersecurity Audit and Remediation Plan**
+# Personal Cybersecurity Audit and Remediation Plan
 
 **Learner Name: Akshaj Pathak**
 
 **Date:04-03-2025**
 
-**1\. Inventory of Digital Assets**
+## 1 Inventory of Digital Assets
 
 List all your digital devices and online accounts below:
 
@@ -18,7 +18,7 @@ List all your digital devices and online accounts below:
 - Account 1: Email: <akshajp545@gmail.com>, Google
 - Account 2: Email: <akshajp54@gmail.com>, Google
 
-**2\. Password Audit**
+## 2 Password Audit
 
 Check the strength of your passwords and document any accounts with reused or weak passwords.
 
@@ -32,7 +32,7 @@ Check the strength of your passwords and document any accounts with reused or we
 - Changed Passwords: Yes
 - Implemented Password Manager: Yes. The password manager used was Kaspersky. Passwords for both the accounts had moderate strength and could be cracked with some effort. Therefore it was suggested to change the passwords and make stronger passwords for both the accounts
 
-**3\. Update and Patch**
+## 3 Update and Patch
 
 List any devices or applications that are outdated and need updates.
 
@@ -48,7 +48,7 @@ List any devices or applications that are outdated and need updates.
 - Device 1- laptop’s latest updates have been successfully installed 20 days ago and the device notifies me about any of the latest updates to the software or operating system
 - Device 2- smartphone’s latest updates have been successfully installed 1 month ago and the device notifies me about any of the latest updates to the software
 
-**4\. Two-Factor Authentication (2FA)**
+## 4 Two-Factor Authentication (2FA)
 
 Identify which accounts support 2FA and document if it's enabled.
 
@@ -62,7 +62,7 @@ Identify which accounts support 2FA and document if it's enabled.
 - Enabled 2FA on Accounts: Yes
 - Notes: Two-Factor Authentication is enabled for account 1 (the main account) however it is disabled for account 2 (the recovery account). It is enabled on account 1 through a passkey / security key, google prompt and through my verified phone number
 
-**5\. Educate Yourself on Phishing**
+## 5 Educate Yourself on Phishing
 
 Summarize key indicators of phishing attempts you learned.
 
@@ -87,7 +87,7 @@ Summarize key indicators of phishing attempts you learned.
 - Vishing: In this method the attacker calls the victim using modern caller ID spoofing to convince the victim that the call is from trusted source
 - Clone phishing: here the attacker copies the email messages that were sent from trusted sources and modifies them by adding links which lead to fake or malicious websites
 
-**6\. Device Security Check**
+## 6 Device Security Check
 
 Ensure devices have locks and security software installed.
 
@@ -102,7 +102,7 @@ Ensure devices have locks and security software installed.
 - Notes: on device 1 (Laptop) password protection is enabled and security/antivirus software McAfee is installed with renewed subscription which scans for the pdfs being downloaded to check for any malicious Activity
 - On Device 2 (smartphone) password protection is enabled and security/antivirus software google play protect (within play store) is present which scans for new applications being downloaded as well as for any malicious activity in installed applications
 
-**7\. Privacy Settings Review**
+## 7 Privacy Settings Review
 
 Review and adjust the privacy settings on your online accounts.
 
@@ -117,7 +117,7 @@ Review and adjust the privacy settings on your online accounts.
 - Notes: for account 1 (Main account) adjustments have been made in privacy settings such as auto delete enabled for we/app activity older than 18 months, personalized ads have been disabled, other than WhatsApp no other application have any access to my google account, use of verified phone number for improving account security and experience
 - For account 2 (recovery account) none of the adjustments have been made till date
 
-**Conclusion and Next Steps**
+## 8 Conclusion and Next Steps
 
 Summarize the overall improvements you've made to your cybersecurity posture and any additional steps you plan to take in the future.
 
@@ -137,3 +137,4 @@ Summarize the overall improvements you've made to your cybersecurity posture and
 3. Never respond to unknown files or attachments sent from untrusted sources and never respond to unknown friend requests on social media platforms
 4. Run frequent scans on my smartphone using google play protect in order to scan for any malicious activities on already installed apps as well as apps that will be newly installed
 5. Made privacy adjustments on my recovery account as well in order to improve account security
+
